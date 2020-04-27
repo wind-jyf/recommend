@@ -20,6 +20,6 @@ npm run dev:mp-weixin
 
 #### 四、使用微信小程序打开
 
-使用微信小程序打开`dev-mp-weixin文件夹`
+使用微信小程序打开`mp-weixin文件夹`
 
-`dist文件->dev-mp-weixin文件夹`
+`dist文件->dev->mp-weixin文件夹`
